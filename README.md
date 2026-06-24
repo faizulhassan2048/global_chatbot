@@ -1,3 +1,10 @@
+---
+license: apache-2.0
+sdk: streamlit
+sdk_version: 1.58.0
+python_version: 3.11
+---
+
 # 🌍 Global Free Chatbot
 
 A completely free, multilingual chatbot that runs on your computer.
