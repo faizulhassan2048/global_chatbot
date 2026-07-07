@@ -1,4 +1,4 @@
----
+create new space on hugging face---
 license: apache-2.0
 sdk: streamlit
 sdk_version: 1.58.0
@@ -40,3 +40,7 @@ cd global_chatbot
 # Create all the files above (copy-paste)
 # Then install packages:
 pip install -r requirements.txt
+
+###
+deploy on hugging face using your groq api
+
